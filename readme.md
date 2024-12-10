@@ -3,15 +3,15 @@
 Meu nome é Vinícius Gall Paes Leme e sou Desenvolvedor Web Full-Stack de Nova Iguaçu, Rio de Janeiro. Estou cursando a Faculdade de Analise e Desenvolvimento de Sistemas na UNINTER Centro Universitário Internacional, tambem estou buscando conhecimento em cursos... <br>
 Alguns cursos que estou fazendo: <br>
 One Bit Code (Full-Stack em JavaScript e Full-Stack com Python) <br>
-Udemy:
--Curso de PHP 8 do Zero ao Profissional (Ronaldo Aires)
--Curso Web Frontend Fundamentos (Daniel Tapias Morales - Serliv Cursos)
--Curso do Figma ao código (Daniel Tapias Morales - Serliv Cursos)
--Algoritmos e Lógica de Programação (Nelio Alves)
--Curso Web Moderno completo com Javascript (Cod3r Cursos)
+Udemy:<br>
+-Curso de PHP 8 do Zero ao Profissional (Ronaldo Aires)<br>
+-Curso Web Frontend Fundamentos (Daniel Tapias Morales - Serliv Cursos)<br>
+-Curso do Figma ao código (Daniel Tapias Morales - Serliv Cursos)<br>
+-Algoritmos e Lógica de Programação (Nelio Alves)<br>
+-Curso Web Moderno completo com Javascript (Cod3r Cursos)<br>
 
-Ao descobrir a programação, encontrei uma paixão que me motiva a estudar, praticar e criar soluções. Minha meta é utilizar esse conhecimento para desenvolver sites e aplicações web que ofereçam experiências dinâmicas, intuitivas e acessíveis.
-Pretendo, ao final da faculdade e desses cursos, estar trabalhando na área de tecnologia como desenvolvedor full-stack, contribuindo para projetos que impactem positivamente a vida das pessoas e o mercado. Meu objetivo é sempre evoluir, aprender novas tecnologias e me consolidar como um profissional competente e inovador.
+Ao descobrir a programação, encontrei uma paixão que me motiva a estudar, praticar e criar soluções. Minha meta é utilizar esse conhecimento para desenvolver sites e aplicações web que ofereçam experiências dinâmicas, intuitivas e acessíveis.<br>
+Pretendo, ao final da faculdade e desses cursos, estar trabalhando na área de tecnologia como desenvolvedor full-stack, contribuindo para projetos que impactem positivamente a vida das pessoas e o mercado. Meu objetivo é sempre evoluir, aprender novas tecnologias e me consolidar como um profissional competente e inovador.<br>
 
 Front-end
 
