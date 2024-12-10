@@ -1,8 +1,8 @@
 ## Olá ✌✌✌
 
-Meu nome é Vinícius Gall Paes Leme e sou Desenvolvedor Web Full-Stack de Nova Iguaçu, Rio de Janeiro. Estou cursando a Faculdade de Analise e Desenvolvimento de Sistemas na UNINTER Centro Universitário Internacional, tambem estou buscando conhecimento em cursos...
-Alguns cursos que estou fazendo: 
--One Bit Code (Full-Stack em JavaScript e Full-Stack com Python) 
+Meu nome é Vinícius Gall Paes Leme e sou Desenvolvedor Web Full-Stack de Nova Iguaçu, Rio de Janeiro. Estou cursando a Faculdade de Analise e Desenvolvimento de Sistemas na UNINTER Centro Universitário Internacional, tambem estou buscando conhecimento em cursos... <br>
+Alguns cursos que estou fazendo: <br>
+One Bit Code (Full-Stack em JavaScript e Full-Stack com Python) <br>
 Udemy:
 -Curso de PHP 8 do Zero ao Profissional (Ronaldo Aires)
 -Curso Web Frontend Fundamentos (Daniel Tapias Morales - Serliv Cursos)
