@@ -13,7 +13,7 @@ Udemy:
 Ao descobrir a programação, encontrei uma paixão que me motiva a estudar, praticar e criar soluções. Minha meta é utilizar esse conhecimento para desenvolver sites e aplicações web que ofereçam experiências dinâmicas, intuitivas e acessíveis.
 Pretendo, ao final da faculdade e desses cursos, estar trabalhando na área de tecnologia como desenvolvedor full-stack, contribuindo para projetos que impactem positivamente a vida das pessoas e o mercado. Meu objetivo é sempre evoluir, aprender novas tecnologias e me consolidar como um profissional competente e inovador.
 
-In the front-end
+Front-end
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
@@ -27,7 +27,7 @@ In the front-end
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D)
 
-In the back-end:
+Back-end:
 
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
